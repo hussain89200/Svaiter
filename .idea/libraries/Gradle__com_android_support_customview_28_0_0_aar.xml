@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:customview:28.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1/caches/transforms-1/files-1.1/customview-28.0.0.aar/67735418d4d371b41da20d20890206db/res" />
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-5.2.1/caches/transforms-1/files-1.1/customview-28.0.0.aar/67735418d4d371b41da20d20890206db/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

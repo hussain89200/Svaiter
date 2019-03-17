@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "677132879228",
+    "firebase_url": "https://auth01-762fe.firebaseio.com",
+    "project_id": "auth01-762fe",
+    "storage_bucket": "auth01-762fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677132879228:android:bfa83f97c7c0cf06",
+        "android_client_info": {
+          "package_name": "com.example.svaiter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677132879228-v3n1hct9k3tma8du8os4lg6mu1uu04ec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMj7eCkwuQSjZ68HoWmAi1yeQm4NEV77A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
